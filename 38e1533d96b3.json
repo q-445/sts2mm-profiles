@@ -16,8 +16,8 @@
       "folder_name": "BaseLib",
       "mod_id": "BaseLib",
       "enabled": true,
-      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.3_0b0a798c.zip",
-      "bundle_sha256": "0b0a798cbd52506133d4beb3f2275a825cf6c3ad271f80a8345d7f6783f158b0"
+      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/BaseLib_v3.1.3_cd0668f8.zip",
+      "bundle_sha256": "cd0668f8e414d400cdc2a9d23757274ce45986eaac13ad0aad2382e816273280"
     },
     {
       "name": "Colored Map S2",
@@ -32,8 +32,8 @@
       "folder_name": "ColoredMapS2",
       "mod_id": "ColoredMapS2",
       "enabled": true,
-      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/Colored_Map_S2_v0.1.1_5a743d20.zip",
-      "bundle_sha256": "5a743d208fabb7a4835adf5b523c12f852c7f5ff1d057be743187ce1501c5c01"
+      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/Colored_Map_S2_v0.1.1_f9fc8744.zip",
+      "bundle_sha256": "f9fc8744b384bd0d106ac72279a997a5e684bf3165bf89cca39d1816acd50450"
     },
     {
       "name": "MovesViewer",
@@ -60,6 +60,7 @@
         "MovesViewer\\Moves\\moves v0.104.0.moves",
         "MovesViewer\\Moves\\moves v0.105.0.moves",
         "MovesViewer\\Moves\\moves v0.105.1.moves",
+        "MovesViewer\\Moves\\moves v0.106.0.moves",
         "MovesViewer\\Moves\\moves v0.99.1.moves",
         "MovesViewer\\MovesViewer.dll",
         "MovesViewer\\MovesViewer.pck"
@@ -67,8 +68,8 @@
       "folder_name": "MovesViewer",
       "mod_id": "MovesViewer",
       "enabled": true,
-      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/MovesViewer_v1.0.6_89708c31.zip",
-      "bundle_sha256": "89708c314962dac26a928539952dfe1d4433b0fa9d540cac72507f2a02f79f4d"
+      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/MovesViewer_v1.0.6_8ce9d954.zip",
+      "bundle_sha256": "8ce9d954e1692417df107b87ef48a9fe96d52c5f5e8e67fe68e671901c38548b"
     },
     {
       "name": "Multiplayer Potion View",
@@ -82,8 +83,8 @@
       "folder_name": "STS2-MultiPlayerPotionView",
       "mod_id": "STS2-MultiPlayerPotionView",
       "enabled": true,
-      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/Multiplayer_Potion_View_v0.3.3_2082aec6.zip",
-      "bundle_sha256": "2082aec6f73e31dd2618d2b8bcb71c3d370cc1f64014b9e3e310c09d77f2c94f"
+      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/Multiplayer_Potion_View_v0.3.3_64ed5b92.zip",
+      "bundle_sha256": "64ed5b92fb56de6eccf0a9f794c08a5a949612155245ab9492413643d42156c9"
     },
     {
       "name": "RandomVision",
@@ -98,8 +99,8 @@
       "folder_name": "RandomVision",
       "mod_id": "RandomVision",
       "enabled": true,
-      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/RandomVision_v0.2.0_d106555c.zip",
-      "bundle_sha256": "d106555caabcb4cf40d4aacf1d2598bec03fd84599030c96024a78e69d450344"
+      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/RandomVision_v0.2.0_43eb65f0.zip",
+      "bundle_sha256": "43eb65f081ed8b77c2b132882d2869fa2d0b93403d77a65ed332dae36f8bdc47"
     },
     {
       "name": "RitsuLib",
@@ -116,8 +117,8 @@
       "folder_name": "STS2-RitsuLib",
       "mod_id": "STS2-RitsuLib",
       "enabled": true,
-      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.2.39_2242a5a2.zip",
-      "bundle_sha256": "2242a5a2f8ed65ea4999bae740ab1efd43bea32ae8ba14ef5dcb34199da6488f"
+      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.2.39_15a0e4f2.zip",
+      "bundle_sha256": "15a0e4f25f9aa547129a83239aa75500ed9b77cb38b18f93f7ad528f57002432"
     },
     {
       "name": "RouteSuggest",
@@ -133,8 +134,8 @@
       "folder_name": "RouteSuggest",
       "mod_id": "RouteSuggest",
       "enabled": true,
-      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/RouteSuggest_v1.11.0_a7a57322.zip",
-      "bundle_sha256": "a7a573223b006678d900b1af86bc8d37743a00eec58dd5b0ae0df1127f73bd8f"
+      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/RouteSuggest_v1.11.0_b7b97aff.zip",
+      "bundle_sha256": "b7b97aff3fbf5b9ade82b902ef36428ab9253f5211d145cb4cad870bcbbaa3ed"
     },
     {
       "name": "Show Player Hand Cards",
@@ -148,8 +149,8 @@
       "folder_name": "STS2-ShowPlayerHandCards",
       "mod_id": "STS2-ShowPlayerHandCards",
       "enabled": true,
-      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/Show_Player_Hand_Cards_v0.6.2_6ff18c73.zip",
-      "bundle_sha256": "6ff18c73d094f9f50e63bca32a5eb1432d0994b976348fab7dee7e6189e75e77"
+      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/Show_Player_Hand_Cards_v0.6.2_ab0a3e27.zip",
+      "bundle_sha256": "ab0a3e276b111339b1bbda67de634567bb55202e9ad0a70681adc431af4f99a7"
     },
     {
       "name": "皮皮倒带: Rewind",
@@ -164,8 +165,8 @@
       "folder_name": "Rewind",
       "mod_id": "Rewind",
       "enabled": true,
-      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/__Rewind_v0.26.10_ddc74033.zip",
-      "bundle_sha256": "ddc740338fa0d248dce4cc81d89abc603c8d3e5dff18c32771f882977f262fd6"
+      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/__Rewind_v0.26.10_6c01eb7b.zip",
+      "bundle_sha256": "6c01eb7b0c55fc6a138b772fe91d34fae777b867db300a0715c344af1ae585bc"
     },
     {
       "name": "皮皮极速: SpeedX",
@@ -180,8 +181,8 @@
       "folder_name": "SpeedX",
       "mod_id": "SpeedX",
       "enabled": true,
-      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/__SpeedX_v0.11.7_b93cf9b8.zip",
-      "bundle_sha256": "b93cf9b8a869f9f4bc90c7996d01294a0af8e778e2e42e7bb7c5c9be88eed091"
+      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/__SpeedX_v0.11.7_6d96a7d4.zip",
+      "bundle_sha256": "6d96a7d4e8bb54354c567e3bb34693718fcd78d9746482fab5000479bb10452d"
     },
     {
       "name": "皮皮统计: Skada",
@@ -196,8 +197,8 @@
       "folder_name": "DamageMeter",
       "mod_id": "DamageMeter",
       "enabled": true,
-      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/__Skada_v1.14.4_a6bb9385.zip",
-      "bundle_sha256": "a6bb93853ba784dec4b1774e25e5fb817e9ad79395837e7d41b85c373eb9e8db"
+      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/__Skada_v1.14.4_facd6967.zip",
+      "bundle_sha256": "facd69677c98ca1629c260ffdbc2f32cc3249ef663f40f940aaf2929ecefebcb"
     },
     {
       "name": "皮皮配置: ModConfig",
@@ -212,8 +213,8 @@
       "folder_name": "ModConfig",
       "mod_id": "ModConfig",
       "enabled": true,
-      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_6950688e.zip",
-      "bundle_sha256": "6950688e5283fe7c444df21404ac5d5d61a746ad38a21788d76850fe11fe0b17"
+      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.3_1ac962fa.zip",
+      "bundle_sha256": "1ac962faa00ea75ab5e95d66638b71b69ffd6ae8c8aa19db22bdc462cf45d569"
     },
     {
       "name": "SlayThePlayer",
@@ -228,11 +229,11 @@
       "folder_name": "SlayThePlayer",
       "mod_id": "SlayThePlayer",
       "enabled": false,
-      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/SlayThePlayer_v1.2.2_be55d65f.zip",
-      "bundle_sha256": "be55d65fbef7d6384b8123df8531904f2fc38d4a6c1b34ad8411d4558f8ee6ac"
+      "bundle_url": "https://github.com/q-445/sts2mm-profiles/releases/download/bundles/SlayThePlayer_v1.2.2_71a3cd95.zip",
+      "bundle_sha256": "71a3cd955930b12c8b7bd60973413305347160e1fcfd5760dac2387b6b0cb060"
     }
   ],
   "created_at": "2026-05-20T08:24:27.915331800Z",
-  "updated_at": "2026-05-21T16:45:03.418596400Z",
+  "updated_at": "2026-05-22T09:04:03.820636300Z",
   "public": false
 }
